@@ -1,7 +1,7 @@
 
 /**
 *@prem This is a package name
-*@return 
+*@return name 
 */
 package com.example;
 
